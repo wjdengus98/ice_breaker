@@ -4,7 +4,6 @@ AI 기반 LinkedIn 프로필 요약 및 아이스브레이커 문장 생성기�
 이 웹앱은 이름을 입력하면 해당 사용자의 LinkedIn 프로필을 추적하고,  
 요약 정보와 흥미로운 사실들을 생성하여 자연스러운 대화 시작을 도와줍니다.
 ![Logo](https://github.com/emarco177/ice_breaker/blob/main/static/demo.gif)
-[![udemy](https://img.shields.io/badge/LangChain%20Udemy%20Course-Coupon%20%2412.99-brightgreen)](https://www.udemy.com/course/langchain/?referralCode=JUNE-2025)
 
 ## 🚀 주요 기능
 - 🔎 **LinkedIn URL 자동 탐색** (Tavily API 사용)
